@@ -1,4 +1,6 @@
 package com.crm.qa.pages;
 
-public class SignUpPage {
+import com.crm.qa.base.TestBase;
+
+public class SignUpPage extends TestBase {
 }
